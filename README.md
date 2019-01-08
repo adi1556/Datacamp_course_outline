@@ -7,6 +7,7 @@ Chapter 1 – Vectors
 	*	Learning Objective: Compute vector addition and dot product using hand.
 *	Lesson 1.3 – Vectors in Numpy 
 	*	Learning Objective: Create numpy arrays and compute vector operations
+
 Chapter 2 - Matrices
 *	Lesson 2.1 – Introduction to Matrices
 	*	Learning Objective: Define a Matrix and differentiate between a vector and a matrix 
