@@ -1,8 +1,9 @@
 # Datacamp Course Outline
+## Sales Pitch
+Data Science is all fluff without understanding the underlying maths. It gives you a solid foundation. Helps you understand the internal workings of an ML model. Ultimately helps you choose the correct model and for a specific problem and a specific dataset. Helps in understanding the hyper parameters of that model and how to tune them to get the best possible result. This is what gives you the edge over a business analyst and makes you a true data scientist.
 
 Chapter 1 – Vectors 
-*	Sales Pitch
-Data Science is all fluff without understanding the underlying maths. It gives you a solid foundation. Helps you understand the internal workings of an ML model. Ultimately helps you choose the correct model and for a specific problem and a specific dataset. Helps in understanding the hyper parameters of that model and how to tune them to get the best possible result. This is what gives you the edge over a business analyst and makes you a true data scientist.
+
 *	Lesson 1.1 – Introduction to Vectors
 	*	Learning Objective: Define a vector and identify a basic intuition of vectors. 
 *	Lesson 1.2 – Vector Operations
