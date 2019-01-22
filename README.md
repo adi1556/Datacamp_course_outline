@@ -37,7 +37,7 @@ Chapter 4 – Advanced Linear Algebra
 *	Lesson 4.2 – Singular Value Decomposition
 	*	Learning Objective: Decompose a matrix into three different matrices using basic Linear Algebra
 *	Lesson 4.3 – Data Science Applications of Advanced Linear Algebra
-	*	Learning Objective: Learners will define how SVD is used in Principal Component Analysis (PCA) and basic recomemndation system
+	*	Learning Objective: Learners will define how SVD is used in Principal Component Analysis (PCA) and basic recommendation system
 *	Lesson 4.4 – Putting it All Together
 	*	Learning Objective: Solve simple Linear Regression problem using a Normal equation
 
